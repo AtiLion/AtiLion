@@ -3,7 +3,6 @@
 I'm AtiLion and this is my "online life" GitHub account, I use it to post things that I don't want linked back to my personal life.
 <p>&nbsp;</p>
 
-[![Discord](https://img.shields.io/badge/Discord-Projects%20Server-blue?style=for-the-badge&logo=discord)](https://discord.gg/qWVgdxu)
 [![Discord](https://img.shields.io/badge/Discord-AtiLion%234160-purple?style=for-the-badge&logo=discord)](https://discord.com/users/174198353108795392)
 [![Twitter](https://img.shields.io/badge/Twitter-AtiLionX1-blue?style=for-the-badge&logo=twitter)](https://twitter.com/AtiLionX1)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=atilion.atilion)
